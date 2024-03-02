@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on [Grammo-Fol](https://github.com/SarbajitPbappy/Grammo-Fol)
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Development,Programming**
+- 💬 Ask me about **Development,Programming,Machine Learning**
 
 - 📫 How to reach me **sarbajit2001@gmail.com**
 
