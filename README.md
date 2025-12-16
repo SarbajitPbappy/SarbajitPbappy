@@ -66,7 +66,6 @@ My primary interests lie in **Deep Learning**, **Computer Vision**, and **Explai
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SarbajitPbappy&show_icons=true&hide_border=true&bg_color=0D1117&title_color=0284c7&icon_color=0284c7)
-![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=SarbajitPbappy&hide_border=true&background=0D1117&ring=0284c7&fire=0284c7)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SarbajitPbappy&layout=compact&hide_border=true&bg_color=0D1117&title_color=0284c7)
 
 </div>
