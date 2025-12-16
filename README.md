@@ -4,7 +4,7 @@
 
 ### 🎓 Final-Year Computer Science Student | 🤖 AI/ML Researcher | 💡 Passionate about Deep Learning & Computer Vision
 
-[![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-0284c7?style=for-the-badge)](https://your-portfolio-url.com)
+[![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-0284c7?style=for-the-badge)]([[https://your-portfolio-url.com](https://sarbajit-bappy.vercel.app/)](https://sarbajit-bappy.vercel.app/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-iamsarbajit-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamsarbajit)
 [![Email](https://img.shields.io/badge/Email-bappy15--6155%40s.diu.edu.bd-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bappy15-6155@s.diu.edu.bd)
 [![GitHub](https://img.shields.io/badge/GitHub-SarbajitPbappy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SarbajitPbappy)
